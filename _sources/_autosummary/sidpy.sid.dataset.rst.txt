@@ -1,0 +1,42 @@
+sidpy.sid.dataset
+=================
+
+.. automodule:: sidpy.sid.dataset
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+      :toctree:
+      :nosignatures:
+   
+      convert_hyperspy
+      view_subclass
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+      :toctree:
+      :template: custom-class-template.rst
+      :nosignatures:
+   
+      DataType
+      Dataset
+   
+   
+
+   
+   
+   
+
+
+
